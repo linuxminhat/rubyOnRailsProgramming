@@ -1,4 +1,5 @@
 QUICK REMIND !!! 
+------------------------------------------
 A/Set up environment for Ruby : 
 -  download ruby & node & yarn
   ----------------------------------------
