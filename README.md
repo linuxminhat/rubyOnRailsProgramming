@@ -1,6 +1,7 @@
 QUICK REMIND !!! 
 A/Set up environment for Ruby : 
 -  download ruby & node & yarn
+  ----------------------------------------
 B/Set up environment for Rails : 
 - gem list bundler
 - gem install bundler (if dont have)
@@ -8,6 +9,7 @@ B/Set up environment for Rails :
 - gem install webpacker
 - gem install rails
 - gem list rails
+  ----------------------------------------
 C/Run Rails
 - rails new name_of_app
 - rails new test_app
