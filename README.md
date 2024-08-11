@@ -10,6 +10,7 @@ B/Set up environment for Rails :
 - gem install webpacker
 - gem install rails
 - gem list rails
+  
   ----------------------------------------
 C/Run Rails
 - rails new name_of_app
